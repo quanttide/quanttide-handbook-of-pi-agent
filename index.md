@@ -6,4 +6,4 @@
 
 ## 目录
 
-- 待补充
+- [pi-hermes-memory 使用规范](./pi-hermes-memory/index.md)：记忆分层（授权进 STANDING、约定进 AGENTS.md、事实留指针）、pin 文案纪律、机制边界与生命周期。
