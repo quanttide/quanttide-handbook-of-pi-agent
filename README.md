@@ -16,7 +16,7 @@
 
 本仓库用于维护量潮 Pi 智能体的操作规范，包括：
 
-- 待补充
+- [pi-hermes-memory 使用规范](./pi-hermes-memory/index.md)：记忆四层存放、pin 文案纪律、机制边界、生命周期与验收。
 
 ## 许可
 

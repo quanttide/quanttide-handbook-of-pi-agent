@@ -13,10 +13,6 @@ pi-hermes-memory 是 Pi 的持久记忆扩展：Markdown 为真源、SQLite 供�
 
 前三层之外一律不进记忆池：状态快照（版本号、目录清单、「进行中」）写入即腐烂，事实归仓库。
 
-## pin 文案
-
-三条纪律与预算单独成篇：[memory-pin 文案规范](./memory-pin.md)。
-
 ## 四个机制边界
 
 - 默认 policy-only 模式下完整记忆不进上下文，靠 agent 决定是否搜索——对事实无妨，对致命约束不可用，故授权必须走 STANDING；
